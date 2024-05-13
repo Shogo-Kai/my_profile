@@ -7,7 +7,7 @@ export const Home: React.FC = () => {
   return (
     <main>
         <img src={profileImage} alt="プロフィール画像" className='rounded-image' />
-        <h1>Shogo K.</h1>
+        <h1>Shogo</h1>
         <p className='welcome-statement'>プロフィールサイトに来ていただき、ありがとうございます！！</p>
         <h3 className='title'>私について</h3>
         <p className='title__content'>
