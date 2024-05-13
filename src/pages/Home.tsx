@@ -24,7 +24,7 @@ export const Home: React.FC = () => {
         </p>
         <h3 className='title'>スキル</h3>
         <p className='title__content'>
-            業務でxmlを使い、医療機関向けの患者レポートのUI開発を行っておりました。
+            業務でxmlを使い、医療機関向けの患者レポートのUI開発を行っております。
         </p>
         <h3 className='title__sub'>実務経験があるもの</h3>
         <p className='title__content'>
