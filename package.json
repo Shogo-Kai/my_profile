@@ -26,7 +26,7 @@
     "eject": "react-scripts eject",
     "rm": "rd /s /q docs",
     "mv": "move build docs",
-    "github-build": "npm run rm && npm run build && npm run mv"
+    "deploy": "npm run rm && npm run build && npm run mv"
   },
   "eslintConfig": {
     "extends": [
