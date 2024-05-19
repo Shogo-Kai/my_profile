@@ -1,11 +1,11 @@
 import React from 'react';
-import { Router } from './routes/Router';
+import { Home } from './pages/Home';
 import './App.css';
 
 const App: React.FC = () => {
   return (
     <div className="App">
-      <Router />
+      <Home />
     </div>
   );
 }
