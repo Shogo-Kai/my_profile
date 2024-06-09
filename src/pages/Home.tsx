@@ -32,7 +32,7 @@ export const Home: React.FC = () => {
         </p>
         <h3 className='title__sub'>趣味で触れたことがあるもの</h3>
         <p className='title__content'>
-            HTML / CSS / JavaScript / TypeScript / React / Python
+            HTML / CSS / JavaScript / TypeScript / React / Python / Java
         </p>
         <h3 className='title__sub'>資格</h3>
         <p className='title__content'>
