@@ -30,11 +30,11 @@ export const Home: React.FC = () => {
         <p className='title__content'>
             xml / SQL
         </p>
-        <h3 className='title__sub'>趣味で触れたことがあるもの</h3>
+        <h3 className='title__sub'>趣味で触れたことのある技術</h3>
         <p className='title__content'>
-            HTML / CSS / JavaScript / TypeScript / React / Python / Java
+            HTML / CSS / JavaScript / Java / PHP / Python / SQL / React.js / TypeScript / Laravel
         </p>
-        <h3 className='title__sub'>資格</h3>
+        <h3 className='title__sub'>保有資格</h3>
         <p className='title__content'>
             基本情報技術者 / Oracle Database SQL / Java SE Bronze / ITパスポート/ TOEIC810
         </p>
